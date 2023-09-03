@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+rws, go=rxs .
+chmod -R u+rw,go=rx . 
